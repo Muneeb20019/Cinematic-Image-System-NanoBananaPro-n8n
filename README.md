@@ -8,7 +8,7 @@
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Muneeb20019/n8n/main/Video%20Generation%20for%20youtube.png" width="100%" alt="n8n Cinematic Image Workflow"/>
+  <img src="https://raw.githubusercontent.com/Muneeb20019/Cinematic-Image-System-NanoBananaPro-n8n/main/Screenshot%202026-02-19%202.33.35%20PM.png" width="100%" alt="n8n Cinematic Image Workflow"/>
   <p><i>Full Agentic Orchestration for Nano Banana Pro Image Synthesis</i></p>
 </div>
 
