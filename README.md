@@ -5,8 +5,6 @@
 ![Nano Banana Pro](https://img.shields.io/badge/Model-Nano--Banana--Pro-yellow?style=flat)
 ![Google Drive](https://img.shields.io/badge/Storage-Google%20Drive-4285F4?style=flat&logo=google-drive&logoColor=white)
 
-**[📸 View Production Gallery](https://github.com/Muneeb20019/n8n)** 
-
 ---
 
 <div align="center">
